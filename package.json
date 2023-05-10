@@ -1,0 +1,18 @@
+{
+    "type": "module",
+    "name": "hello-world",
+    "version": "1.0.0",
+    "description": "Hello World example in Node.js",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": [
+      "node",
+      "hello",
+      "world"
+    ],
+    "author": "Everson",
+    "license": "ISC"
+  }
+  
